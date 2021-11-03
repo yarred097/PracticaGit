@@ -1,0 +1,13 @@
+body
+{
+    margin: 0;
+    background-color: crimson;
+}
+
+h1
+{
+    color: black;
+    text-align: center;
+    font-size: 6em;
+    background-color: chocolate;
+}
